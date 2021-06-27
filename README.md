@@ -1,2 +1,2 @@
-# Kaggle_Earthquake_challenge
+ Kaggle_Earthquake_challenge
 
